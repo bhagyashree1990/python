@@ -18,13 +18,14 @@
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install numpy, statsmodels, sklearn, seaborn
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install numpy, statsmodels, sklearn, seaborn, pydotplus
 
 ```bash
 pip install numpy
 pip install statsmodels
 pip install sklearn
 pip install seaborn
+pip install pydotplus
 ```
 
 ## Usage
