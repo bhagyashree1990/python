@@ -14,11 +14,11 @@
 13. Machine Learning: Logistic Regression
 14. Feature Selection for ML
 15. Decision Tree
-
+16. Ensembling and Random Forest
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install numpy, statsmodels, sklearn, seaborn, pydotplus
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install numpy, statsmodels, sklearn, seaborn, pydotplus, mlxtend
 
 ```bash
 pip install numpy
@@ -26,6 +26,7 @@ pip install statsmodels
 pip install sklearn
 pip install seaborn
 pip install pydotplus
+pip install mlxtend
 ```
 
 ## Usage
