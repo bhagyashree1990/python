@@ -16,6 +16,8 @@
 15. Decision Tree
 16. Ensembling and Random Forest
 17. Gradient Boosting Machines
+18. Machine Learning: Clustering
+19. Challenges in Machine Learning
 
 ## Installation
 
