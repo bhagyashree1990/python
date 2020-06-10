@@ -21,7 +21,7 @@
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install numpy, statsmodels, sklearn, seaborn, pydotplus, mlxtend, xgboost
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install numpy, statsmodels, sklearn, seaborn, pydotplus, mlxtend, xgboost, imblearn
 
 ```bash
 pip install numpy
@@ -31,6 +31,7 @@ pip install seaborn
 pip install pydotplus
 pip install mlxtend
 pip install xgboost
+pip install imblearn
 ```
 
 ## Usage
