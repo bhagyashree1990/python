@@ -18,6 +18,7 @@
 17. Gradient Boosting Machines
 18. Machine Learning: Clustering
 19. Challenges in Machine Learning
+20. Solving a Business Problem using Data Science
 
 ## Installation
 
